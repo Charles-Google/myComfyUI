@@ -1,11 +1,18 @@
 {
   "recommendations": [
-    "antfu.vite",
     "antfu.iconify",
     "antfu.unocss",
+    "antfu.vite",
     "antfu.goto-alias",
-    "vue.volar",
     "dbaeumer.vscode-eslint",
-    "EditorConfig.EditorConfig"
+    "vue.volar",
+    "lokalise.i18n-ally",
+    "streetsidesoftware.code-spell-checker",
+    "esbenp.prettier-vscode",
+    "formulahendry.auto-rename-tag",
+    "formulahendry.auto-close-tag",
+    "eamodio.gitlens",
+    "github.vscode-pull-request-github",
+    "gruntfuggly.todo-tree"
   ]
 }

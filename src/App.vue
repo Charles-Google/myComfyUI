@@ -1,6 +1,18 @@
+<script setup lang="ts">
+import { RouterView } from 'vue-router'
+</script>
+
 <template>
-  <main font-sans p="x-4 y-10" text="center gray-700 dark:gray-200">
-    <RouterView />
-    <TheFooter />
-  </main>
+  <RouterView />
 </template>
+
+<style>
+html,
+body {
+  @apply h-full w-full m-0 p-0 overflow-hidden;
+}
+
+#app {
+  @apply h-full w-full;
+}
+</style>
